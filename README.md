@@ -1,2 +1,2 @@
 # staticwebsitebasic
-simple html for example
+simple html and vanilla css for example
