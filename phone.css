@@ -1,5 +1,6 @@
 #navbar{
     flex-direction: column;
+    z-index:10;
 }
 /* ghghghgh */
 #navbar ul li a{
